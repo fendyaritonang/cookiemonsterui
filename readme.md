@@ -1,6 +1,6 @@
 # Cookie Monster User Interface
 
-This is user interface for Cookie Monster app for the purpose of demonstrating microservices architecture. Please read the instruction on how to use run the UI.
+This is user interface for Cookie Monster app for the purpose of demonstrating microservices architecture. Please read the instruction on how to run the UI.
 
 ### Running Instruction
 1. Run Cookie Monster Web API
