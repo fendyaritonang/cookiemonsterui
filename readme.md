@@ -3,8 +3,9 @@
 This is user interface for Cookie Monster app for the purpose of demonstrating microservices architecture. Please read the instruction on how to run the UI.
 
 ### Running Instruction
-1. Run Cookie Monster Web API
-2. Open index.html in any browser
+1. Get the latest version of Cookie Monster Web API
+2. Run Cookie Monster Web API
+3. Open index.html in any browser
 
 ### User experience improvement
 - To add progress icon when processing request from web API
